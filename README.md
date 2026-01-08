@@ -19,8 +19,6 @@
 
 ## 📸 Project Screenshots & Output
 
-> **Note:** Add your project screenshots here. Place images in a `screenshots/` directory and reference them below.
-
 ### Dashboard Overview
 ![WordPress Dashboard](screenshots/dashboard.png)
 *WordPress Admin Dashboard - Main interface after installation*
@@ -84,7 +82,6 @@ This project serves as a development lab where WordPress customization, experime
 ✅ **Ownership Status:** CONFIRMED  
 👤 **Maintainer:** Ramanpreet Singh  
 📅 **Last Verified:** 2026-01-08  
-📁 **Project Path:** `/Users/mac/Downloads/custom-wordpress-project`  
 🏷️ **Project Name:** The WordPress Lab
 
 ---
@@ -559,21 +556,7 @@ Made with ❤️ by Ramanpreet Singh
 
 ---
 
-## 📸 Adding Screenshots
 
-To add project screenshots:
-
-1. Create a `screenshots/` directory in the project root
-2. Add your screenshot images (PNG or JPG format recommended)
-3. Update the image paths in the "Project Screenshots & Output" section above
-4. Recommended screenshot dimensions: 1280x720 or 1920x1080
-
-Example:
-```markdown
-![Screenshot Name](screenshots/your-screenshot.png)
-```
-
----
 
 **Project Name:** The WordPress Lab  
 **Last Updated:** 2026-01-08  
