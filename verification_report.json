@@ -1,0 +1,58 @@
+{
+  "verification_date": "2026-01-08 23:20:31",
+  "project_path": "/Users/mac/Downloads/custom-wordpress-project",
+  "project_name": "Custom WordPress-Based Website",
+  "maintainer": "Ramanpreet Singh",
+  "ownership_confirmed": true,
+  "project_details": {
+    "key_files": {
+      "README.md": {
+        "exists": true,
+        "description": "Main documentation",
+        "size": 561
+      },
+      "AUTHORS.md": {
+        "exists": true,
+        "description": "Author information",
+        "size": 98
+      },
+      "index.php": {
+        "exists": true,
+        "description": "Main entry point",
+        "size": 405
+      },
+      "wp-config-sample.php": {
+        "exists": true,
+        "description": "Configuration template",
+        "size": 3339
+      },
+      "license.txt": {
+        "exists": true,
+        "description": "License information",
+        "size": 19903
+      }
+    },
+    "readme_content": "# Custom WordPress-Based Website\n\n## About\nThis repository contains a customized WordPress-based web project.\nThe project has been modified, configured, and maintained by Ramanpreet Singh\nfor learning, development, and deployment purposes.\n\n## Key Features\n- Custom theme configuration\n- Plugin integration and setup\n- UI/UX customization\n- Performance optimization\n- Security configuration\n\n## Maintainer\nRamanpreet Singh\n\n## Original Project\nWordPress – https://wordpress.org\n\n## License\nThis project is licensed under the GNU General Public License (GPL).\n",
+    "authors_content": "Modified and maintained by:\nRamanpreet Singh\n\nOriginal Project:\nWordPress (https://wordpress.org)\n",
+    "wordpress_components": {
+      "wp-admin_files": 574,
+      "wp-content_files": 1670,
+      "wp-includes_files": 3288,
+      "themes": 15,
+      "plugins": 0
+    },
+    "wordpress_version": "7.0-alpha-61450",
+    "top_level_directories": [
+      "wp-admin",
+      "wp-content",
+      "wp-includes"
+    ],
+    "wp_config_status": {
+      "wp-config.php_exists": false,
+      "wp-config-sample.php_exists": true,
+      "installation_status": "Not configured"
+    },
+    "total_project_size_bytes": 180638883,
+    "total_project_size_mb": 172.27
+  }
+}
